@@ -1,0 +1,91 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+.whatsappbtn {
+  border: 1px solid #27ae60;
+  padding: 10px 18px;
+  color: #27ae60;
+  font-size: 16px;
+}
+.whatsappbtn:hover {
+  border: 1px solid #27ae60;
+  color: #27ae60;
+}
+.whatsappbtn i {
+  color: #27ae60;
+}
+.call {
+  color: white;
+  padding: 10px 18px;
+  background: linear-gradient(to right, #0acefe, #2699fb);
+}
+
+.bannerContent h1 {
+  font-weight: 700;
+}
+.bannerContent h1 span {
+  color: #0c6ff1;
+  background: url("/images/line.png") no-repeat bottom;
+}
+.bannerContent ul {
+  list-style: none;
+}
+.bannerContent ul li {
+  font-size: 22px;
+}
+.bannerContent ul li i {
+  color: #0c6ff1;
+}
+.bannerContentBtn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+.bannerContentBtn button:first-child{
+    color: white;
+    background: linear-gradient(to right, #0acefe, #2699fb);
+}
+.bannerForm{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerForm h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerForm button{
+    width: 100%;
+    background: linear-gradient(to right, #0acefe, #2699fb) ;
+    color: white;
+    border: none ;
+}
+.counterSection h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #0c6ff1;
+
+}
+.highlight-section{
+    background-color: #f7faff;
+}
+.highlight-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: bold;
+}
+.highlight-section h2 p{
+    font-size: 18px;
+}
+.HighlightsItems h4{
+  font-size: 20px;
+  font-weight: bold;
+}
+.HighlightsItems p{
+  font-size: 15px;
+}
+
+.navbar-nav ul li a{
+ font-weight: bold;
+ color: #0c6ff1;
+ 
+}
